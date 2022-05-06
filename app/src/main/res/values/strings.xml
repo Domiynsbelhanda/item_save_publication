@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="save_title">ITEM REGISTRATION</string>
+    <string name="save_text_description">Please complete this form for add a new item.</string>
+    <string name="save_choose_image">SELECT ITEM IMAGE</string>
+    <string name="save_button_select">+ SELECT</string>
+    <string name="save_button_save">SAVE</string>
+    <string name="save_button_cancel">CANCEL</string>
+    <string name="save_input_designation">Designation</string>
+    <string name="save_title_category">Select Category:</string>
+    <string name="save_title_size">Select Size:</string>
+    <string name="save_input_price">Price</string>
+    <string-array name="save_list_category">
+        <item>Gucci</item>
+        <item>Louis Vuitton</item>
+        <item>Versace</item>
+        <item>Dolce Gabbana</item>
+        <item>Adidas</item>
+        <item>Nike</item>
+        <item>Puma</item>
+        <item>Lacoste</item>
+    </string-array>
+    <string-array name="save_list_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+</resources>
